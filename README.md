@@ -2,7 +2,7 @@ The Insurance Management System is a full-stack web application built to automat
 It enables customers to register, purchase policies, make premium payments, and track claims online reducing manual effort and improving efficiency.
 
 
-#Tech-Stack
+**TechStack:**
  -React JS
  -Java
  -Spring Boot
