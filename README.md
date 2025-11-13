@@ -3,18 +3,17 @@ It enables customers to register, purchase policies, make premium payments, and 
 
 
 **TechStack:**
- -React JS
- -Java
- -Spring Boot
- -Postgresql
- -Render
- -Vercel
+-React JS
+-Java
+-Spring Boot
+-Postgresql
+-Render
+-Vercel
 
 #Deployement Links
 **Frontend:** [Insurance Management System](https://insurance-management-system-frontend-5j3t18m73.vercel.app/)
 
 **Backend API:** https://insurance-backened.onrender.com/api
-
 **Test the APIs:**
 - Customers: https://insurance-backened.onrender.com/api/customer
 - Policies: https://insurance-backened.onrender.com/api/policy
