@@ -5,7 +5,7 @@ It enables customers to register, purchase policies, make premium payments, and 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - React JS  
 - Java  
 - Spring Boot  
