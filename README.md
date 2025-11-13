@@ -6,7 +6,7 @@ It enables customers to register, purchase policies, make premium payments, and 
  -React JS
  -Java
  -Spring Boot
- -Postgres
+ -Postgresql
  -Render
  -Vercel
 
