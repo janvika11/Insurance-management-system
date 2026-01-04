@@ -19,7 +19,7 @@ It enables customers to register, purchase policies, make premium payments, and 
 
 **Frontend:** [Insurance Management System](https://insurance-management-system-frontend-5j3t18m73.vercel.app/)  
 
-**Backend API:** [https://insurance-backened.onrender.com/api](https://insurance-backened.onrender.com/api)  
+**Backend API:** [[https://insurance-backened-1.onrender.com/api ](https://insurance-backened-1.onrender.com/api/) 
 **Test the APIs:**  
 - [Customers](https://insurance-backened.onrender.com/api/customer)  
 - [Policies](https://insurance-backened.onrender.com/api/policy)  
