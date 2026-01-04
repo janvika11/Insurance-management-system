@@ -22,7 +22,7 @@ It enables customers to register, purchase policies, make premium payments, and 
 **Backend API:** [https://insurance-backened-1.onrender.com/api ](https://insurance-backened-1.onrender.com/api/) 
 
 **Test the APIs:**  
-- [Customers](https://insurance-backened.onrender.com/api/customer)  
-- [Policies](https://insurance-backened.onrender.com/api/policy)  
-- [Claims](https://insurance-backened.onrender.com/api/claim)  
-- [Payments](https://insurance-backened.onrender.com/api/payment)  
+- [Customers](https://insurance-backened-1.onrender.com/api/customer)  
+- [Policies](https://insurance-backened-1.onrender.com/api/policy)  
+- [Claims](https://insurance-backened-1.onrender.com/api/claim)  
+- [Payments](https://insurance-backened-1.onrender.com/api/payment)  
