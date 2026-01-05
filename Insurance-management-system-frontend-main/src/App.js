@@ -41,7 +41,7 @@ function App() {
   const [message, setMessage] = useState('');
   
   // Api
-  const API_BASE ='https://insurance-backened.onrender.com/api';
+  const API_BASE ='https://insurance-backened-1.onrender.com/api';
 
   // Load data when tab changes
   useEffect(() => {
